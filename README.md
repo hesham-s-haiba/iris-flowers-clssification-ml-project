@@ -1,7 +1,7 @@
 # 🌸 Iris Flowers Classification - Machine Learning Project
 
 <p align="center">
-  <img src="iris.png" alt="Iris" width="500"/>
+  <img src="iris.png" alt="Iris"/>
 </p>
 
 This project is a machine learning classification task based on the famous **Iris Flower Dataset**. The goal is to accurately classify iris flowers into one of three species: *Setosa*, *Versicolor*, and *Virginica* using various machine learning models.
